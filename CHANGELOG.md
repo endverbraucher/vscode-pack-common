@@ -4,6 +4,6 @@ All notable changes to the "pack-common" extension pack will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## 0.0.1
+## 1.0.0
 
 - Initial release
