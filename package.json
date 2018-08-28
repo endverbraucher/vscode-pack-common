@@ -1,0 +1,45 @@
+{
+    "name": "pack-common",
+    "displayName": "Pack Common",
+    "description": "Basic extension which are used commonly",
+    "version": "0.0.1",
+    "publisher": "endverbraucher",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "BriteSnow.vscode-toggle-quotes",
+        "CoenraadS.bracket-pair-colorizer",
+        "EditorConfig.EditorConfig",
+        "PeterJausovec.vscode-docker",
+        "anseki.vscode-color",
+        "bierner.markdown-preview-github-styles",
+        "christian-kohler.path-intellisense",
+        "codezombiech.gitignore",
+        "cssho.vscode-svgviewer",
+        "DavidAnson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "emilast.LogFileHighlighter",
+        "felipe.nasc-touchbar",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-complete-tag",
+        "formulahendry.auto-rename-tag",
+        "GrapeCity.gc-excelviewer",
+        "hoovercj.vscode-settings-cycler",
+        "jock.svg",
+        "jolaleye.horizon-theme-vscode",
+        "jspolancor.presentationmode",
+        "kisstkondoros.vscode-gutter-preview",
+        "mikestead.dotenv",
+        "monokai.theme-monokai-pro-vscode",
+        "naumovs.color-highlight",
+        "rubbersheep.gi",
+        "Shan.code-settings-sync",
+        "sleistner.vscode-fileutils",
+        "thenikso.github-plus-theme",
+        "vincaslt.highlight-matching-tag"
+    ]
+}
