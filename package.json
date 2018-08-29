@@ -13,6 +13,7 @@
     "repository": {
       "url": "https://github.com/endverbraucher/vscode-pack-common"
     },
+    "icon": "./icon.png",
     "extensionPack": [
         "BriteSnow.vscode-toggle-quotes",
         "EditorConfig.EditorConfig",
