@@ -1,6 +1,6 @@
 {
     "name": "pack-common",
-    "displayName": "Pack Common",
+    "displayName": "Webdev Fundamental Extension Pack",
     "description": "Basic extension which are used commonly",
     "version": "1.2.0",
     "publisher": "endverbraucher",
@@ -40,9 +40,7 @@
         "kisstkondoros.vscode-gutter-preview",
         "codezombiech.gitignore",
         "rubbersheep.gi",
-        "formulahendry.auto-close-tag",
         "formulahendry.auto-complete-tag",
-        "formulahendry.auto-rename-tag",
         "vincaslt.highlight-matching-tag"
     ]
 }
