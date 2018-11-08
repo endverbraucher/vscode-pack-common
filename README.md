@@ -16,7 +16,7 @@ This extension pack contains all the extensions I use across all workspaces. So 
 * [svg](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 * [svgviewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 * [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-* [markdown-preview-github-styles](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+* [github-markdown-preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
 * [gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * [LogFileHighlighter](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter)
 * [nasc-touchbar](https://marketplace.visualstudio.com/items?itemName=felipe.nasc-touchbar)
