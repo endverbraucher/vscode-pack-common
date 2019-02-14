@@ -19,7 +19,7 @@
         "EditorConfig.EditorConfig",
         "mikestead.dotenv",
         "PeterJausovec.vscode-docker",
-        "CoenraadS.bracket-pair-colorizer",
+        "coenraads.bracket-pair-colorizer-2",
         "anseki.vscode-color",
         "naumovs.color-highlight",
         "sleistner.vscode-fileutils",
@@ -28,6 +28,7 @@
         "cssho.vscode-svgviewer",
         "DavidAnson.vscode-markdownlint",
         "bierner.github-markdown-preview",
+        "yzhang.markdown-all-in-one",
         "eamodio.gitlens",
         "emilast.LogFileHighlighter",
         "felipe.nasc-touchbar",
@@ -41,6 +42,13 @@
         "codezombiech.gitignore",
         "rubbersheep.gi",
         "formulahendry.auto-complete-tag",
-        "vincaslt.highlight-matching-tag"
+        "vincaslt.highlight-matching-tag",
+        "zhuangtongfa.Material-theme",
+        "ccy.ayu-adaptive",
+        "mechatroner.rainbow-csv",
+        "jduponchelle.rainbow-end",
+        "foxundermoon.shell-format",
+        "skyapps.fish-vscode",
+        "wayou.vscode-todo-highlight"
     ]
 }
