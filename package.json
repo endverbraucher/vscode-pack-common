@@ -2,7 +2,7 @@
     "name": "pack-common",
     "displayName": "Webdev Fundamental Extension Pack",
     "description": "Basic extension which are used commonly",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "publisher": "endverbraucher",
     "engines": {
         "vscode": "^1.26.0"
