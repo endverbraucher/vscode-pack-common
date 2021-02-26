@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.7.0
+- removed a lot extensions and themes to be less distracted
+
 ## 1.6.0
 - add better comments extension
 
